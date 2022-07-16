@@ -19,7 +19,6 @@
       "filterable": 1
     },
     {"api":"csp_AppYsV2","ext":"http://123.250idc.com/mogai_api.php/v1.vod","key":"csp_1","filterable":1,"name":"101(🎉)","type":3},
-    {"key":"8090资源(含官采)","name":"8090资源网(含官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
     {
       "key": "Kmys",
       "name": "酷猫",
