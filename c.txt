@@ -499,5 +499,4 @@
     "cms.qdwght.com"
   ],
   "spider": " https://yangguokai.github.io/c/c.jar"
-  "spider": " https://yangguokai.github.io/c/tm.jar"
 }
